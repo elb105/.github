@@ -114,7 +114,7 @@ Tools, hardware and datasets we have released for the community:
     <td align="center"><a href="https://elb105.com/alimu/"><img src="./assets/people/alimu.png" width="90" alt="Almudena Calatrava"><br><sub><b>Almudena Calatrava</b></sub></a></td>
     <td align="center"><a href="https://elb105.com/juliagonzalezrecio/"><img src="./assets/people/juliagonzalezrecio.png" width="90" alt="Julia González"><br><sub><b>Julia González</b></sub></a></td>
     <td align="center"><a href="https://elb105.com/mrm/"><img src="./assets/people/mrm.png" width="90" alt="Miguel Romero"><br><sub><b>Miguel Romero</b></sub></a></td>
-    <td align="center"><a href="https://elb105.com/new-b105-main/people/"><sub><b>+ 12 students<br>and 125+ alumni</b><br>See everyone →</sub></a></td>
+    <td align="center"><a href="https://elb105.com/new-b105-main/people/"><img src="./assets/people/rookie.png" width="90" alt="B105 students"><br><sub><b>+ 12 students<br>and 125+ alumni</b><br>See everyone →</sub></a></td>
   </tr>
 </table>
 
